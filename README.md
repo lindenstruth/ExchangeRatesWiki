@@ -1,2 +1,1 @@
-# ExchangeRatesWiki
-# ExchangeRatesWiki
+# Exchange Rates Wiki
